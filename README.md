@@ -1,15 +1,5 @@
 
 
-Skip to content
-Using Gmail with screen readers
-4 of 20,917
-(no subject)
-Inbox
-
-Michelle <michelleevans2237@gmail.com>
-10:32 PM (8 minutes ago)
-to me
-
 # Business Website Base Template
 
 A clean, professional, fully responsive business website template built with pure HTML, CSS, and JavaScript. Designed as a reusable foundation for small business clients — swap in colors, content, and photos for any industry.
